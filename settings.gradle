@@ -1,0 +1,4 @@
+include ':libAlgorithm'
+rootProject.name='LearnFit'
+include ':app'
+include ':libKotlin'
